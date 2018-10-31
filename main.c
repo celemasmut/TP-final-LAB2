@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "ventas.h"
 
 int main()
 {
-    printf("Hello world!\n");
 
-    printf("HOLA BABE")
     return 0;
 }
